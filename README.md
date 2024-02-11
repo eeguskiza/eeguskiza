@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=eeguskiza&label=Profile%20views&color=0e75b6&style=flat" alt="eeguskiza" />
 </p>
 
-- 🔭 I’m currently working on [Prog-IV]([https://github.com/eeguskiza/Prog-III.git](https://github.com/eeguskiza/Prog-IV.git))
+- 🔭 I’m currently working on [Prog-IV]((https://github.com/eeguskiza/Prog-IV.git))
 
 - 🌱 I’m currently learning **C and C++**
 
