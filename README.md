@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erik Eguskiza</h1>
 <h3 align="center">Hi! I am a student of a Double Degree in Computer Engineering and Data Science at the University of Deusto.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg”>
+<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeguskiza&label=Profile%20views&color=0e75b6&style=flat" alt="eeguskiza" /> </p>
 
