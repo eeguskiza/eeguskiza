@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Prog-IV](https://github.com/eeguskiza/Prog-IV.git)
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C, C++ and ROS**
 
 - 📫 How to reach me **e.eguskiza@opendeusto.es**
 
