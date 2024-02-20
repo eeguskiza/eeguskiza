@@ -14,10 +14,10 @@
 
 - 📫 How to reach me **e.eguskiza@opendeusto.es**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-    <a href="www.linkedin.com/in/erik-eguskiza-aranda-4a2a55256" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik_eguskiza" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/erik-eguskiza-aranda-4a2a55256" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn de Erik Eguskiza" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/eeguskiza" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eeguskiza" height="30" width="40" />
