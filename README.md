@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Prog-IV](https://github.com/eeguskiza/Prog-IV.git) and [Artemis](https://github.com/eeguskiza/Artemis.git)
 
-- 🌱 I’m currently learning **C, C++ and ROS**
+- 🌱 I’m currently learning **C, C++, Java, Python3 and ROS**
 
 - 📫 How to reach me **e.eguskiza@opendeusto.es**
 
