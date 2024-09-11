@@ -8,9 +8,8 @@
     <img src="https://komarev.com/ghpvc/?username=eeguskiza&label=Profile%20views&color=0e75b6&style=flat" alt="eeguskiza" />
 </p>
 
-- 🔭 I’m currently working on [Socialtech](https://github.com/eeguskiza/socialtech.git)
-
-- 🌱 I’m currently learning **C, C++, Java, Python3 and ROS**
+- 🔭 I’m currently working on (to be determined)
+- 🌱 I’m currently learning **Python3 and ROS (1 and 2)**
 
 - 📫 How to reach me **e.eguskiza@opendeusto.es**
 
