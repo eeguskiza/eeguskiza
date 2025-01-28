@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=eeguskiza&label=Profile%20views&color=0e75b6&style=flat" alt="eeguskiza" />
 </p>
 
-- 🔭 I’m currently working on [Strava](https://github.com/eeguskiza/strava.git) and [SocialTech](https://github.com/SocialTech-Deusto/socialtech_deusto_ros2_ws.git)
+- 🔭 I’m currently working on [L.E.X](https://github.com/eeguskiza/L.E.X) and [SocialTech](https://github.com/SocialTech-Deusto/socialtech_deusto_ros2_ws.git)
 - 🌱 I’m currently learning **Python3, ROS2 Foxy** and expanding my **Java** knowledge!
 
 - 📫 How to reach me **e.eguskiza@opendeusto.es**
