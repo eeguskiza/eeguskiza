@@ -136,7 +136,7 @@
 
 ###
 
-<h2 align="left">Thanks for scrolling! 🚀 Now, let's-a go! 🍄</h2>
+<h2 align="left">Thanks for scrolling! 🚀  🍄</h2>
 
 ###
 
