@@ -40,13 +40,13 @@
 
 ###
 
-<h2 align="left">Hello World!!</h2>
+<h2 align="left">📊 Activity Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeguskiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="181" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguskiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="181" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eeguskiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eeguskiza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -129,11 +129,15 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Overview</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Thanks for scrolling! 🚀 Now, let's-a go! 🍄</h2>
 
 ###
 
