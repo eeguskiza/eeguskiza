@@ -29,7 +29,7 @@
 
 - 📍 Bilbao, Spain
 - 🎓 Dual BSc **Computer Science + Data Science** @ University of Deusto
-- 🔬 Currently diving into **PyTorch & Deep Learning**
+- 🔬 Currently working with **LLMs, AI Assistants & Data Processing**
 - 🎯 Building intelligent systems that actually work
 - 🐛 Creating bugs since 2022
 - 🎲 99% success rate fixing bugs... that I created myself
@@ -63,13 +63,13 @@
 
 **Data & ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,matlab,r,mysql,sqlite,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab,r,mysql,sqlite,anaconda&theme=dark" />
 
 <br>
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,xcode,gradle,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,idea,gradle,figma&theme=dark" />
 
 </div>
 
@@ -79,14 +79,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeguskiza&theme=dracula" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeguskiza&theme=dracula" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeguskiza&theme=dracula" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeguskiza&theme=dracula" height="180" />
 </div>
 
 ---
