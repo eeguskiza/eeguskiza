@@ -23,14 +23,25 @@
 
 <h2>🧑‍💻 About me</h2>
 
-```yaml
-name: Erik Eguskiza
-located_in: Bilbao, Spain
-education: Dual BSc Computer Science + Data Science @ University of Deusto
-currently_learning: PyTorch & Deep Learning
-goals: Build intelligent systems that actually work (preferably bug-free)
-fun_fact: "I have a 99% success rate in fixing bugs... that I created myself"
-```
+<table>
+<tr>
+<td width="60%">
+
+- 📍 Bilbao, Spain
+- 🎓 Dual BSc **Computer Science + Data Science** @ University of Deusto
+- 🔬 Currently diving into **PyTorch & Deep Learning**
+- 🎯 Building intelligent systems that actually work
+- 🐛 Creating bugs since 2022
+- 🎲 99% success rate fixing bugs... that I created myself
+
+</td>
+<td width="40%" align="center">
+
+<img src="assets/footer.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,12 +95,6 @@ fun_fact: "I have a 99% success rate in fixing bugs... that I created myself"
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
