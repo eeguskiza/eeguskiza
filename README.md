@@ -78,7 +78,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeguskiza&theme=dracula&area=true&hide_border=true" width="100%" alt="contribution graph" />
+  <img src="assets/contributions-by-year.svg" width="100%" alt="contributions by year" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeguskiza&theme=dracula" height="180" />
 </div>
 
