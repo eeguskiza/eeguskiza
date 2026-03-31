@@ -37,7 +37,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="assets/footer.gif" width="300" />
+<img src="assets/header.gif" width="300" />
 
 </td>
 </tr>
