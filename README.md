@@ -1,146 +1,95 @@
 <div align="center">
-  <img height="350" src="assets/header.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erik%20Eguskiza&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
-
-<br>
-
-<h1 align="center">Hello World! Erik here. 💻</h1>
-
-<br>
-
-<h4 align="center">I am a Dual Bachelor's Degree student in Computer Science and Data Science at the University of Deusto.</h4>
-
-<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eeguskiza&style=for-the-badge&color=blueviolet" alt="profile views"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=CS+%2B+Data+Science+%40+University+of+Deusto;Building+intelligent+systems+that+actually+work;Creating+bugs+since+2022+%F0%9F%90%9B" alt="Typing SVG" />
 </div>
-
-<br>
-
-<h2 align="left">About me</h2>
-
-<br>
-
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently diving into PyTorch & Deep Learning<br>🎯 Goals: Build intelligent systems that actually work (preferably bug-free)<br>🎲 Fun fact: I have a 99% success rate in fixing bugs... that I created myself</p>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eeguskiza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="mailto:04eeguskiza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
   <a href="https://discord.com/users/583218070286499851" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=eeguskiza&style=for-the-badge&color=blueviolet" alt="profile views" />
 </div>
+
+---
+
+<h2>🧑‍💻 About me</h2>
+
+```yaml
+name: Erik Eguskiza
+located_in: Bilbao, Spain
+education: Dual BSc Computer Science + Data Science @ University of Deusto
+currently_learning: PyTorch & Deep Learning
+goals: Build intelligent systems that actually work (preferably bug-free)
+fun_fact: "I have a 99% success rate in fixing bugs... that I created myself"
+```
+
+---
+
+<h2>⚡ Tech Stack</h2>
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css&theme=dark" />
 
 <br>
 
-<h2 align="left">📊 Activity Stats</h2>
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,spring,flutter,dart,firebase,docker,aws,gcp&theme=dark" />
+
+<br>
+
+**Data & ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,matlab,r,mysql,sqlite,jupyter&theme=dark" />
+
+<br>
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,xcode,gradle,figma&theme=dark" />
+
+</div>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeguskiza&theme=dracula" width="100%" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeguskiza&theme=dracula" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeguskiza&theme=dracula" height="180" alt="streak stats"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeguskiza&theme=dracula" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeguskiza&theme=dracula" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeguskiza&theme=dracula" height="180" />
 </div>
 
-<br>
+---
 
-<h2 align="left">💻 Proficient in</h2>
-
-<br>
+<h2>🌐 3D Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="47" alt="cplusplus logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
-<br>
-
-<h2 align="left">🛠️ Familiar with</h2>
-
-<br>
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img src="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<br>
-
-<h2 align="left">Overview</h2>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/eeguskiza/eeguskiza/output/snake.svg" alt="Snake animation" />
-
-<br>
-
-<h2 align="left">Thanks for scrolling! 🚀  🍄</h2>
-
-<br>
-
-<div align="center">
-  <img height="200" src="assets/footer.gif"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
