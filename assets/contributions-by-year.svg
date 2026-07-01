@@ -76,13 +76,13 @@
   </rect>
   <text x="510" y="207" text-anchor="middle" fill="#f8f8f2" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="600">137</text>
   <text x="510" y="272" text-anchor="middle" fill="#ffb86c" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="600">2025</text>
-  <rect x="570" y="80.0" width="80" height="170.0" rx="4" fill="url(#bar2026)" filter="url(#glow)">
-    <animate attributeName="height" from="0" to="170.0" dur="1.0s" fill="freeze"/>
-    <animate attributeName="y" from="250" to="80.0" dur="1.0s" fill="freeze"/>
+  <rect x="570" y="78.5" width="80" height="171.5" rx="4" fill="url(#bar2026)" filter="url(#glow)">
+    <animate attributeName="height" from="0" to="171.5" dur="1.0s" fill="freeze"/>
+    <animate attributeName="y" from="250" to="78.5" dur="1.0s" fill="freeze"/>
   </rect>
-  <text x="610" y="72" text-anchor="middle" fill="#f8f8f2" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="600">661</text>
+  <text x="610" y="70" text-anchor="middle" fill="#f8f8f2" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" font-weight="600">667</text>
   <text x="610" y="272" text-anchor="middle" fill="#ff5555" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="600">2026</text>
 
   <!-- Footer -->
-  <text x="400" y="300" text-anchor="middle" fill="#6272a4" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11">Total: 1079 contributions since Nov 2022</text>
+  <text x="400" y="300" text-anchor="middle" fill="#6272a4" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11">Total: 1085 contributions since Nov 2022</text>
 </svg>
